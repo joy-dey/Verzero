@@ -1,0 +1,22 @@
+[
+    {
+        "version": "0.1",
+        "version_code": "alpha_0.1",
+        "release_notes": [
+            "Added login funcionality",
+            "Added Remember user functionality",
+            "Added Password Reset functionality"
+        ],
+        "updated_on": "2022-10-06 00:03:50"
+    },
+    {
+        "version": "0.2",
+        "version_code": "alpha_0.0.1",
+        "release_notes": [
+            "Added login funcionality",
+            "Added Remember user functionality",
+            "Added Password Reset functionality"
+        ],
+        "updated_on": "2022-10-06 00:09:33"
+    }
+]
